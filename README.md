@@ -1,2 +1,2 @@
 # HomeBoysUnited
-Website for home boys united 
+Website for home boys united minecraft server.
